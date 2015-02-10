@@ -1,0 +1,5 @@
+D:\Sources\SendMail.Net\SendMail.Net\obj\Debug\SendMail.Net.csprojResolveAssemblyReference.cache
+D:\Sources\SendMail.Net\SendMail.Net\bin\Debug\SendMail.Net.dll
+D:\Sources\SendMail.Net\SendMail.Net\bin\Debug\SendMail.Net.pdb
+D:\Sources\SendMail.Net\SendMail.Net\obj\Debug\SendMail.Net.dll
+D:\Sources\SendMail.Net\SendMail.Net\obj\Debug\SendMail.Net.pdb
